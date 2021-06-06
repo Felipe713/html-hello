@@ -1,0 +1,24 @@
+body{
+    background: black;
+}
+
+.post{
+    background-color: white;
+     margin: auto;
+    /*padding: 20px;*/
+    width: 600px;
+}
+
+i{
+    display: inline;
+}
+p{
+    display: inline;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
