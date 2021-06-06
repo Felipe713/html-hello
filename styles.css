@@ -1,19 +1,31 @@
+* {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+
 body{
     background: black;
 }
 
 .post{
     background-color: white;
-     margin: auto;
-    /*padding: 20px;*/
+    margin: auto;
     width: 600px;
 }
 
-i{
+.fab fa-html5{
+    display:inline;
+    padding: 5px;
+}
+
+.fas fa-ellipsis-v{
     display: inline;
+    width: 20%;
+    
 }
 p{
     display: inline;
+    width: 60%;
 }
 
 img{
